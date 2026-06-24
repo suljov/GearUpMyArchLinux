@@ -6,7 +6,8 @@ Automatic ArchLinux setup, update and tool install script to gear up your ArchLi
 
 * This script i made is for making the installation of a new ArchLinux with my own setup for hyprland, kitty conf and so on for a more automatic and easier setup. 
 * The script will update and upgrade the system, install the basic and essential tools (atleast those that i use etc)
-* This script is easy to use and easy to modify for your own needs etc. 
+* This script is easy to use and easy to modify for your own needs etc.
+* This script also install needed packages and setup my own hyprland config and my kitty terminal conf
 * Of course you are free to use and modify as you like. 
 
 
