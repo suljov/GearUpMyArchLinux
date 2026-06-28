@@ -1,0 +1,7 @@
+{
+  "Auto create if err != nil": {
+    "prefix": "iferr",
+    "body": ["if err != nil {\n fmt.Println(err)\n}"],
+    "description": "Auto creates basic 'if err' check"
+  }
+}
