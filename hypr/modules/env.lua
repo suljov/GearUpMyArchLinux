@@ -36,11 +36,10 @@ hl.env("MOZ_ENABLE_WAYLAND", "1")
 hl.env("ELECTRON_OZONE_PLATFORM_HINT", "auto")
 
 -- NVIDIA
-hl.env("LIBVA_DRIVER_NAME", "nvidia")
-hl.env("__GLX_VENDOR_LIBRARY_NAME", "nvidia")
-hl.env("NVD_BACKEND", "direct")
-hl.env("GBM_BACKEND", "nvidia-drm")
+--hl.env("LIBVA_DRIVER_NAME", "nvidia")
+--hl.env("__GLX_VENDOR_LIBRARY_NAME", "nvidia")
+--hl.env("NVD_BACKEND", "direct")
+--hl.env("GBM_BACKEND", "nvidia-drm")
 -- Force apps to use Wayland and NVIDIA
 --hl.env("GBM_BACKEND", "nvidia-drm")
 --hl.env("__GLX_VENDOR_LIBRARY_NAME", "nvidia")
---hl.env("LIBVA_DRIVER_NAME", "nvidia") -- For hardware video decoding

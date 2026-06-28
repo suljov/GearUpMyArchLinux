@@ -641,6 +641,20 @@
         "enableMultiMonitorDirectories": false,
         "enabled": true,
         "favorites": [
+            {
+                "appearance": "dark",
+                "colorScheme": "Eldritch",
+                "darkMode": true,
+                "generationMethod": "tonal-spot",
+                "paletteColors": [
+                    "#37f499",
+                    "#04d1f9",
+                    "#a48cf2",
+                    "#f16c75"
+                ],
+                "path": "/home/suljov/Pictures/Wallpapers/wallpaper-anime-berserk.jpg",
+                "useWallpaperColors": false
+            }
         ],
         "fillColor": "#000000",
         "fillMode": "crop",
