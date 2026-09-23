@@ -21,9 +21,9 @@ Automatic ArchLinux setup, update and tool install script to gear up your ArchLi
 ```
 git clone https://github.com/suljov/GearUpMyArchLinux
 ```
-2. Move the script
+2. Move in to the dir
 ```
-mv GearUpMyArchLinux/GearUpMyArchLinux.sh .
+cd GearUpMyArchLinux
 ```
 3. Make it executeable
 ```
